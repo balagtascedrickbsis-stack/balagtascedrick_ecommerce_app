@@ -1,4 +1,4 @@
-# Cedrick Balagtas 312 - Activity 4
+# Cedrick Balagtas IS 312 - Activity 4
 This project was created for Activity 4 in the IS 312 course. It demonstrates how to build a simple RESTful API using Python and Flask to manage products and orders. The application uses a SQLite database to perform basic CRUD operations and returns data in JSON format, which can be tested using Postman.
 ## Framework Used
 Flask – a lightweight Python web framework used to create RESTful APIs, handle routes, and run a local server. It works with additional libraries like SQLAlchemy for database operations and Marshmallow for handling JSON data.
